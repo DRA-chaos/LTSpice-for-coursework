@@ -1,0 +1,6 @@
+* C:\Users\DRA\Dropbox\My PC (DESKTOP-MR1852M)\Documents\LTspiceXVII\Lab1.2.asc
+V1 N001 0 SINE(0 8 40 0.4 0 0 10)
+R1 0 N001 1K
+.tran 10
+.backanno
+.end
